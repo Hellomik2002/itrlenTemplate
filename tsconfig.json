@@ -10,6 +10,7 @@
     "strict": true,
     "sourceMap": true,
     "removeComments": true,
+    "skipLibCheck": true
   },
   "include": [
     "src/**/*"
